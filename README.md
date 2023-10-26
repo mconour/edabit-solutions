@@ -1,6 +1,6 @@
 # Edibit Challenge Solutions
 
-![Edibit Challenge Solutions Logo](https://example.com/edibit-logo.png)
+![Edibit Challenge Solutions Logo](images/edabit-logo.png)
 
 Welcome to Edibit Challenge Solutions, your go-to repository for solving and sharing solutions to the awesome coding challenges from Edabit.com. Whether you're a coding enthusiast, a seasoned developer, or just getting started with coding, this collection of solutions will help you hone your problem-solving skills and master various programming concepts.
 
@@ -9,7 +9,6 @@ Welcome to Edibit Challenge Solutions, your go-to repository for solving and sha
 - [About Edibit Challenge Solutions](#about-edibit-challenge-solutions)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About Edibit Challenge Solutions
 
