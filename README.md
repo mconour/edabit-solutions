@@ -1,6 +1,6 @@
 # Edibit Challenge Solutions
 
-Welcome to Edibit Challenge Solutions, your go-to repository for solving and sharing solutions to the awesome coding challenges from Edabit.com. Whether you're a coding enthusiast, a seasoned developer, or just getting started with coding, this collection of solutions will help you hone your problem-solving skills and master various programming concepts.
+Welcome to Edibit Challenge Solutions, your go-to repository for solving and sharing solutions to the awesome coding challenges from Edabit.com. Whether you're a coding enthusiast, a seasoned developer, or just getting started, this collection of solutions will help you hone your problem-solving skills and master various programming concepts.
 
 ## Table of Contents
 
