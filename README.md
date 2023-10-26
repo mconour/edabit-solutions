@@ -1,11 +1,7 @@
 # Edibit Challenge Solutions
 
-<!--<div>
-    <img src="https://s3.amazonaws.com/edabit-images/logo_wide_large.png" alt="Edibit Challenge Solutions Logo" style="width: 80%; height: 80%; text-align: center;">
-</div>-->
-
 <p>
-  <img src="https://s3.amazonaws.com/edabit-images/logo_wide_large.png" alt="Edibit Challenge Solutions Logo" style="width: 85%; height: 85%;">
+  <img src="https://s3.amazonaws.com/edabit-images/logo_wide_large.png" alt="Edibit Challenge Solutions Logo">
 </p>
 
 
