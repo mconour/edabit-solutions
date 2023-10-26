@@ -3,7 +3,7 @@
 ![Edibit Challenge Solutions Logo](https://s3.amazonaws.com/edabit-images/logo_wide_large.png)
 
 <div>
-    <img src="https://s3.amazonaws.com/edabit-images/logo_wide_large.png" alt="Edibit Challenge Solutions Logo" style="width: 50%; height: 50%;">
+    <img src="https://s3.amazonaws.com/edabit-images/logo_wide_large.png" alt="Edibit Challenge Solutions Logo" style="width: 80%; height: 80%;">
 </div>
 
 Welcome to Edibit Challenge Solutions, your go-to repository for solving and sharing solutions to the awesome coding challenges from Edabit.com. Whether you're a coding enthusiast, a seasoned developer, or just getting started with coding, this collection of solutions will help you hone your problem-solving skills and master various programming concepts.
