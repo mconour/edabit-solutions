@@ -2,7 +2,7 @@
 
 ![Edibit Challenge Solutions Logo](https://s3.amazonaws.com/edabit-images/logo_wide_large.png)
 
-<div style="width: 200px; height: 100px;">
+<div>
     <img src="https://s3.amazonaws.com/edabit-images/logo_wide_large.png" alt="Edibit Challenge Solutions Logo" style="width: 50%; height: 50%;">
 </div>
 
