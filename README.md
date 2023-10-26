@@ -4,8 +4,8 @@
     <img src="https://s3.amazonaws.com/edabit-images/logo_wide_large.png" alt="Edibit Challenge Solutions Logo" style="width: 80%; height: 80%; text-align: center;">
 </div>-->
 
-<p align="center">
-  <img src="https://s3.amazonaws.com/edabit-images/logo_wide_large.png" alt="Edibit Challenge Solutions Logo" style="width: 80%; height: 80%;">
+<p>
+  <img src="https://s3.amazonaws.com/edabit-images/logo_wide_large.png" alt="Edibit Challenge Solutions Logo" style="width: 90%; height: 90%;">
 </p>
 
 
